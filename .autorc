@@ -1,0 +1,11 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "nasser4life",
+  "repo": "container-u3rjadu",
+  "name": "nasser4life",
+}
